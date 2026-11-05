@@ -1,0 +1,5 @@
+PyQt6>=6.10.0
+psutil>=7.0.0
+pillow>=11.0.0
+pycaw>=20240210
+comtypes>=1.4.0

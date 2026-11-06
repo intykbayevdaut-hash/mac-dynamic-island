@@ -1,0 +1,15 @@
+[2026-11-06T20:29:23] startup
+[2026-11-06T20:29:25] clean_atexit
+Windows fatal exception: code 0x8001010e
+
+Current thread 0x00000cd0 (most recent call first):
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+Windows fatal exception: code 0x8001010e
+
+Current thread 0x00000cd0 (most recent call first):
+
+Current thread's C stack trace (most recent call first):
+  <cannot get C stack on this system>
+[2026-11-06T20:30:15] startup
